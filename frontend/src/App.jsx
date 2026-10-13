@@ -158,9 +158,17 @@ export default function App() {
   const [currentUser, setCurrentUser] = useState(() => {
     try {
       const saved = localStorage.getItem('road_accident_user');
-      return saved ? JSON.parse(saved) : null;
+      return saved ? JSON.parse(saved) : {
+        username: 'admin',
+        role: 'Administrator',
+        name: 'Dr. Harshith (Admin)'
+      };
     } catch {
-      return null;
+      return {
+        username: 'admin',
+        role: 'Administrator',
+        name: 'Dr. Harshith (Admin)'
+      };
     }
   });
 
