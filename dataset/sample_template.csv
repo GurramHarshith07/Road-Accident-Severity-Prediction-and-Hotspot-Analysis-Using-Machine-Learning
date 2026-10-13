@@ -1,0 +1,9 @@
+accident_date,accident_time,latitude,longitude,state,city,location_description,road_type,weather_condition,lighting_condition,road_surface_condition,vehicle_count,casualty_count,injury_count,speed_limit,area_type,severity
+2024-03-15,18:30:00,28.6139391,77.2090212,Delhi,New Delhi,Connaught Place Outer Circle,Roundabout,Fine,Darkness - lights lit,Dry,2,0,1,50,Urban,Minor
+2024-03-16,21:15:00,19.0759837,72.8776559,Maharashtra,Mumbai,Western Express Highway Bandra,Dual Carriageway,Raining,Darkness - lights lit,Wet/Damp,3,1,2,80,Urban,Fatal
+2024-03-17,09:45:00,12.9715987,77.5945627,Karnataka,Bengaluru,Hosur Road Silk Board Junction,Single Carriageway,Fine,Daylight,Dry,2,0,1,60,Urban,Serious
+2024-03-18,14:20:00,17.3850440,78.4866710,Telangana,Hyderabad,Outer Ring Road Gachibowli,Dual Carriageway,Fine,Daylight,Dry,1,0,0,100,Rural,Minor
+2024-03-19,23:10:00,18.5204303,73.8567437,Maharashtra,Pune,Swargate ST Stand Chowk,Roundabout,Fine,Darkness - lights lit,Dry,2,0,1,40,Urban,Minor
+2024-03-20,03:30:00,13.0826802,80.2707184,Tamil Nadu,Chennai,Kathipara Cloverleaf Guindy,Dual Carriageway,Fog/Mist,Darkness - no lights,Wet/Damp,2,1,1,80,Urban,Fatal
+2024-03-21,11:00:00,28.6289000,77.2415000,Delhi,New Delhi,ITO Crossing Vikas Marg,Single Carriageway,Fine,Daylight,Dry,2,0,2,50,Urban,Serious
+2024-03-22,17:40:00,19.0833000,72.9033000,Maharashtra,Mumbai,Eastern Express Highway Ghatkopar,Dual Carriageway,Fine,Daylight,Dry,2,0,0,70,Urban,Minor
